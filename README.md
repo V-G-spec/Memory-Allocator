@@ -30,7 +30,9 @@ In the case any argument is missing, console is used for input or output.
 ## Running
 
 ```Allocate```: Allocates memory of a certain size
+
 ```Free```: Frees up memory block starting at a particular address (Denoted by an integer)
+
 ```Defragment```: Checks for free blocks that are next to each other and combines them into larger free blocks.
 
 ## Format of input
@@ -64,6 +66,7 @@ command2
 ```Allocate Size```
 
 ```Free Address```
+
 ```Defragment 0```
 
 ## Author
