@@ -70,8 +70,9 @@ command2
 ```Defragment 0```
 
 ## Author
-
-Vansh Gupta: https://github.com/V-G-spec
+[Vansh Gupta](https://github.com/V-G-spec)  
+Undergraduate student, Electrical Engineering Department  
+Indian Institute of Technology, Delhi
 
 ## License
 
